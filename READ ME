@@ -1,0 +1,5 @@
+In this project I utilized Pandas to clean, harmonize and prepare data to build a ML decision model of 7000+ used cars in the United States. 
+Created 3 new variables to calculate Price Difference, Miles Per Year and Warranty percent cost of each used vehicle. 
+Built 4 different machine learning models using Sklearn library to predict a good vehicle purchase while supervising tree depth to prevent overfitting or underfitting the training data.
+Utilized matplotlib library and Jupyter notebooks to visualize trees and create professional reports and 
+selected a champion model with 90% of precision and 88% in accuracy when selecting a good purchase for a used vehicle
